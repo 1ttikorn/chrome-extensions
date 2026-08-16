@@ -46,6 +46,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
 - [Empty New Tab Page (Black)](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp) - Change new tab to open empty black page instead of default top sites.
 - [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Change new tab to open empty page instead of default top sites.
+- [WanaGo Travel Wallpaper New Tab](https://chromewebstore.google.com/detail/wanago-travel-wallpaper-n/bgaeojjcodgaioepdilnejpegpehfgcg) - Transform your new tab into a beautifully designed travel inspiration board.
 - [Enhanced Steam](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg) - Adds many new features to the Steam website.
 - [Figma Figjets Panel](https://chrome.google.com/webstore/detail/figma-figjets-panel/diljoblapaochhcgfonabkjihknfmllk) - Plugins Panel for Figma.
 - [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Get things done offline with the Google Docs family of products.
